@@ -13,7 +13,7 @@
 ; limitations under the License.
 
 (defproject hesokuri
-  "SNAPSHOT"
+  "1.2.0"
   :description "Distributed Git repo synchronization tool"
   :url "https://github.com/google/hesokuri"
   :license {:name "Apache 2.0"
